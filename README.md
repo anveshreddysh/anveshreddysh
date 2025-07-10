@@ -1,36 +1,56 @@
-<h1 align="center">hey there 👋</h1>
+<h2 align="center">Hi 👋, I'm Anvesh S H</h2>
 
-###
+<p align="center">
+  🎓 B.Tech CSE Graduate (2025) <br>
+  💻 Software Developer & AI/ML Enthusiast <br>
+  🔍 Exploring DevOps, React, Flask & Python ML Projects
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/anvesh-s-h-89379b24b" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+---
 
+### 🚀 About Me
 
-###
+- 🔭 I’m currently working on real-world AI + web projects
+- 🌱 I’m learning **DevOps**, **Linux**, and **cloud systems**
+- 🧠 Passionate about **AI/ML**, data pipelines, and system design
+- 💬 Ask me about Python, Flask, React, UI/UX, or automation
+- 📫 Reach me at: [anv2ko1@gmail.com](mailto:anv2ko1@gmail.com)
 
-<h3 align="center">👩‍💻  About Me</h3>
+---
 
-###
+### 🧰 Tech Stack
 
-<p align="left">I'm Anvesh from Bangalore,India<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 
-###
+---
 
-<h3 align="center">🔥   My Stats</h3>
+### 📌 My Projects
 
-###
+- 🔋 **[Battery Health Prediction AI App](https://github.com/yourusername/project-link)**  
+  Flask + ML app using SVM, RF, DT, KNN, DNN
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anveshreddysh&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anveshreddysh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=anveshreddysh&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+- 🛒 **[E-Commerce Cart UI](https://github.com/yourusername/project-link)**  
+  Web UI with cart functionality
 
-###
+- 📊 **[Fest Management System](https://github.com/yourusername/project-link)**  
+  Event planner app with MySQL backend
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/anveshreddysh/count.svg?"  />
-</div>
+---
+
+### 📈 GitHub Stats
+
+![Anvesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anveshsh&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anveshsh&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anveshreddysh)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:anv2ko1@gmail.com)
+
