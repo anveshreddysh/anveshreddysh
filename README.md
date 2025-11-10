@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Anvesh S H</h2>
 
 <p align="center">
-  🎓 B.Tech CSE Graduate (2025) <br>
+  🎓 B.Tech AI&ML Graduate (2025) <br>
   💻 Software Developer & AI/ML Enthusiast <br>
   🔍 Exploring DevOps, React, Flask & Python ML Projects
 </p>
